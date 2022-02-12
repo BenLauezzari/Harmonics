@@ -1,0 +1,6 @@
+[submodule "PQLog"]
+	path = PQLog
+	url = /home/ben/Documents/Documents/work/FARS/StandardShunt/PQLog/
+[submodule "longdata"]
+	path = longdata
+	url = /home/ben/Documents/Documents/work/FARS/StandardShunt/longdata/
